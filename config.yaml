@@ -1,12 +1,13 @@
-threads: 550
-update_rate: 0.01 # how fast the status board will update. in seconds.
+threads: 100
+update_rate: 0.1 # how fast the status board will update. in seconds.
 file_extensions:
   - .png
   - .gif
   - .jpg
   - .jpeg
   - .webm
-  - .mp4   # usually the one that takes up the most storage space.
+  - .mp4 # usually the one that takes up the most storage space.
+  - .txt
 
 # customise with whatever you want to look for!
 # obviously, some will be rarer than others
