@@ -8,6 +8,8 @@ file_extensions:
   - .webm
   - .mp4 # usually the one that takes up the most storage space.
   - .txt
+  - .doc
+  - .docx
 
 # customise with whatever you want to look for!
 # obviously, some will be rarer than others
